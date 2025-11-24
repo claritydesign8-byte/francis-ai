@@ -1,0 +1,7 @@
+{
+  "name": "Francis-AI",
+  "description": "An advanced AI assistant designed for fast, accurate, and real-time answers, capable of writing, coding, and problem-solving.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
